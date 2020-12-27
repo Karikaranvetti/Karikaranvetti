@@ -1,5 +1,5 @@
 ### Hey 👋, I'm [Hari!](https://Karikaranvetti.github.io/pw/)
-(https://cdn.crunchify.com/wp-content/uploads/2013/03/social-media-icons.jpg) ##Social 
+## Social 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karikaran-vettrivel-3919391b2)
 [![website](	https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harish_baana_/)
 ## 📝 Blog
