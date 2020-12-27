@@ -35,7 +35,7 @@
 
 <p align="center"> 
   <b><u>Visitor count</u><br>
-  <img src="https://profile-count.glitch.me/iamvpa/count" />
+  <img src="https://profile-count.glitch.me/Karikaranvetti/count" />
 </p>
 
 <!--
