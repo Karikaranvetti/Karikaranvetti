@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> <img src="https://img.shields.io/badge/google%20podcasts-4285F4?logo=google-podcasts&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/youtube%20music-FF0000?logo=youtube-music&logoColor=white&style=for-the-badge" />
 
 -->
-<!-- 
+
 ## 📈 Statistics
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Karikaranvetti&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karikaranvetti&layout=compact&theme=radical" alt="languages" height="165">
@@ -38,7 +38,7 @@
 <p align="center"> 
   <b><u>Visitor count</u><br>
   <img src="https://profile-count.glitch.me/Karikaranvetti/count" />
-</p> -->
+</p>
 
 <!--
  
