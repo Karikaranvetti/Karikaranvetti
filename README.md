@@ -1,7 +1,7 @@
 ### Hey 👋, I'm [Hari!](https://Karikaranvetti.github.io/pw/)
 ## 🌐 Social 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karikaran-vettrivel-3919391b2)
-[![website](	https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harish_baana_/)
+[![website](	https://img.shields.io/badge/leetcode-%23000000.svg?&style=for-the-badge&logo=leetcode&logoColor=yello)](https://leetcode.com/KarikaranVetti/)
 ## 📝 Blog
 [![Linkedin: VPA](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://karikaranvetti.medium.com/)
 [![Linkedin: VPA](https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCNOH_XO5QVukPlR9JfMJ5ZQ)
